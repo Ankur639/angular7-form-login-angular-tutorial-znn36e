@@ -1,0 +1,12 @@
+/* Add application styles & imports to this file! */
+@import url('https://unpkg.com/bootstrap@3.3.7/dist/css/bootstrap.min.css');
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    color: white;
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: dimgrey;
+}

@@ -1,0 +1,11 @@
+h1{
+    text-align: center;
+    color: chartreuse;
+}
+.formLogin{
+    width: 50%;
+    margin: 0 auto;
+}
+.formLogin p{
+  color: red;
+}
